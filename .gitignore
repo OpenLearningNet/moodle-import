@@ -1,0 +1,6 @@
+
+.vscode
+moodlebackup.mbz
+*.pyc
+venv
+.DS_Store
